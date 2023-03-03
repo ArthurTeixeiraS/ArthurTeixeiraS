@@ -1,4 +1,4 @@
-###Olá! Seja bem-vindo ao meu perfil do GitHub!
+<strong>Olá! Seja bem-vindo ao meu perfil do GitHub!</strong>
 
 Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, HTML, CSS, SQL, Java e intermediário em Delphi 10.
 <i class="devicon-javascript-plain colored"></i>
