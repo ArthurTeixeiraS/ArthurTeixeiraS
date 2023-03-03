@@ -2,9 +2,10 @@
 <strong>Olá! Seja bem-vindo ao meu perfil do GitHub!</strong>
 
 Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, HTML, CSS, SQL, Java e intermediário em Delphi 10.
-<i class="devicon-javascript-plain colored"></i>
-            <i class="devicon-html5-plain-wordmark colored"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
 
 Aqui no meu perfil você encontrará alguns dos meus projetos pessoais e experimentos com diferentes tecnologias. Acredito que a prática é a melhor maneira de aprender e evoluir como programador, e é por isso que sempre tento desenvolver projetos diferentes para expandir meus conhecimentos.
 
