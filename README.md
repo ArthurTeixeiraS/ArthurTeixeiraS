@@ -15,8 +15,8 @@
 </div><br/>
 <p>Aqui no meu perfil você encontrará alguns dos meus projetos pessoais e experimentos com diferentes tecnologias. Acredito que a prática é a melhor maneira de aprender e evoluir como programador, e é por isso que sempre tento desenvolver projetos diferentes para expandir meus conhecimentos.
 </p>
-<p>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são:
-   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analísta de números</a>
+<p>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: <br/>
+   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analista de números</a>
 </p>
 
 <p>Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.
