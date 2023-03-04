@@ -19,10 +19,9 @@
    <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analista de números</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">Contador com Passos</a> </br>
 </p>
-### :fire: Meus Status :
+<p>### :fire: Meus Status :
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
-
-
+</p>
 <p>Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.
 </p>
 <p>Se você gostaria de entrar em contato comigo, pode me enviar uma mensagem aqui no GitHub ou me encontrar no LinkedIn. Será um prazer conversar com você sobre tecnologia, programação ou qualquer outra coisa que você queira discutir.</p>
