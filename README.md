@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="left">
+    <a href="https://github.com/ArthurTeixeiraS"></a>
     <h2><strong>Olá! Seja bem-vindo ao meu perfil do GitHub!</strong></h2>
 
-<p>Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, HTML, CSS, SQL, Java e intermediário em Delphi 10.</p><br/>
+<p>Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, HTML, CSS, SQL, Java e intermediário em Delphi 10.</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
