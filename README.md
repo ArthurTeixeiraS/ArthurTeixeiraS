@@ -16,10 +16,10 @@
 </div><br/>
 <p>Aqui no meu perfil você encontrará alguns dos meus projetos pessoais e experimentos com diferentes tecnologias. Acredito que a prática é a melhor maneira de aprender e evoluir como programador, e é por isso que sempre tento desenvolver projetos diferentes para expandir meus conhecimentos.
 </p>
-<p>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: <br/>
-   <p>
-   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analista de números</a> </br>
-    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">Contador com Passos</a> </br>
+    <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
+   <h3>
+   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">✅Analista de números</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">✅Contador com Passos</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
