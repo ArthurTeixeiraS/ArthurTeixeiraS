@@ -21,6 +21,8 @@
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 </p>
 <p>Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.
 </p>
