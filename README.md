@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> <br/>
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667)" width="50" height="50"/> <br/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/> <br/>  
 </div><br/>
 <p>Aqui no meu perfil você encontrará alguns dos meus projetos pessoais e experimentos com diferentes tecnologias. Acredito que a prática é a melhor maneira de aprender e evoluir como programador, e é por isso que sempre tento desenvolver projetos diferentes para expandir meus conhecimentos.
 </p>
