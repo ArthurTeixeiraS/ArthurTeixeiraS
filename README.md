@@ -17,8 +17,11 @@
 </p>
 <p>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: <br/>
    <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analista de números</a> </br>
-   <img src="https://drive.google.com/file/d/1SXrlVR1jrrhlAD6PvVQQnbxzzEKieME6/view?usp=share_link" width="100" height="100"/>
+    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">Contador com Passos</a> </br>
 </p>
+### :fire: Meus Status :
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
+
 
 <p>Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.
 </p>
