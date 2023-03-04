@@ -33,5 +33,5 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/arthur-teixeira-serafim-1b87b1254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
-<p>Obrigado por vistar meu perfil e espero que possamos trabalhar juntos em algum projeto em breve!
+<p><strong> • Obrigado por vistar meu perfil e espero que possamos trabalhar juntos em algum projeto em breve!</strong>
 </p></div>
