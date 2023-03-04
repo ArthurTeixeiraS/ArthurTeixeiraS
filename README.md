@@ -17,7 +17,7 @@
 </p>
 <p>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: <br/>
    <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">Analista de números</a> </br>
-   <img src="![image](https://user-images.githubusercontent.com/111259694/222869632-59038818-43f5-497f-8243-d6e681fb53f9.png)" width="100" height="100"/>
+   <img src="https://drive.google.com/file/d/1SXrlVR1jrrhlAD6PvVQQnbxzzEKieME6/view?usp=share_link" width="100" height="100"/>
 </p>
 
 <p>Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.
