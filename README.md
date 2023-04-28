@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
    
-<p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, HTML, CSS, SQL, Java e intermediário em Delphi 10.</strong></p>
+<p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, SQL e Java, e intermediário em Delphi 10, HTML5 e CSS3, .</strong></p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
