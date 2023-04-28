@@ -21,6 +21,7 @@
    <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">✅Analista de números</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">✅Contador com Passos</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2">✅To-Do List</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/LandingPage">✅Landing Page</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
