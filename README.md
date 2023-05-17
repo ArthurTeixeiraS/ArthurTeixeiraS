@@ -25,10 +25,13 @@
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
+<figure>
  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
    <img align="center"height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </p>
+<figcaption>❗Os índices de Pascal subiram bastante por conta dos Projetos em Delphi que são bastante extensos, mas minhas linguagens principais ainda são as Webs!</figcaption>
+</figure>
 <h4><strong>👨‍💻 Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.</strong>
 </h4>
 <p>Se você gostaria de entrar em contato comigo, pode me enviar uma mensagem aqui no GitHub ou me encontrar no LinkedIn. Será um prazer conversar com você sobre tecnologia, programação ou qualquer outra coisa que você queira discutir.</p>
