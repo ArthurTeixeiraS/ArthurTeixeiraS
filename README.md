@@ -30,7 +30,7 @@
    <img align="center"height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </p>
-<figcaption font-size=6px>❗Os índices de Pascal subiram bastante por conta dos Projetos em Delphi que são bastante extensos, mas minhas linguagens principais ainda são as Webs!</figcaption>
+<figcaption font-size=6px> ❗ Os índices de Pascal subiram bastante por conta dos Projetos no Delphi que são bastante extensos, mas minhas linguagens principais ainda são as Webs!</figcaption>
 </figure>
 <h4><strong>👨‍💻 Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.</strong>
 </h4>
