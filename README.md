@@ -6,7 +6,7 @@
     </h2>
    
 <p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, SQL e Java, e intermediário em Delphi 10, HTML5 e CSS3.</br>
-<a href="https://portifolioarthurts.netlify.app/#home">✅Meu Portifólio</a></strong></p>
+<a href="https://portifolioarthurts.netlify.app/#home" target=_blank>✅Meu Portifólio</a></strong></p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
@@ -19,12 +19,11 @@
 </p>
     <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
    <h3>
-    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS">✅Repositório JavaScript/TypeScript</a> </br>
-   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS">✅Analista de números</a> </br>
-    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS">✅Contador com Passos</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2">✅To-Do List</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/LandingPage">✅Landing Page</a> </br>
-      <a href="https://github.com/ArthurTeixeiraS/">✅Landing Page</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target=_blank>✅Repositório JavaScript/TypeScript</a> </br>
+   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS" target=_blank>✅Analista de números</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS" target=_blank>✅Contador com Passos</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2" target=_blank>✅To-Do List</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/LandingPage" target=_blank>✅Landing Page</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
