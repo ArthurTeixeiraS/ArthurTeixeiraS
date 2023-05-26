@@ -6,7 +6,7 @@
     </h2>
    
 <p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em JavaScript, SQL e Java, e intermediário em Delphi 10, HTML5 e CSS3.</br>
-<h3><a align="center" href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a></h3></strong></p>
+<h3 align="center"><a align="center" href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a></h3></strong></p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
