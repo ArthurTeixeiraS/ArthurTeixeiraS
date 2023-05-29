@@ -28,8 +28,8 @@
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
 <figure>
- <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
-   <img align="center"height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
 <figcaption font-size=6px> ❗ Os índices de Pascal subiram bastante por conta dos Projetos no Delphi que são bastante extensos, mas minhas linguagens principais ainda são as Webs!</figcaption>
