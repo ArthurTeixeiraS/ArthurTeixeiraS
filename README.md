@@ -24,6 +24,7 @@
     <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS" target="_blank">✅Contador com Passos</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2" target="_blank">✅To-Do List</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/ListaDeTarefas" target="_blank">✅Lista de Tarefas</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
