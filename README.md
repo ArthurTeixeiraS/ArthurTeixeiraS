@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+\<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="left">
     <a href="https://github.com/ArthurTeixeiraS"></a>
     <h2><strong>Olá! Seja bem-vindo ao meu perfil do GitHub!</strong>
@@ -29,7 +29,7 @@
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
 <figure>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArthurTeixeiraS&hide=prs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTeixeiraS&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
