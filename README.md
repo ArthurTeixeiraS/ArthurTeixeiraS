@@ -36,7 +36,7 @@
 </figure>
 <h4><strong>👨‍💻 Fique à vontade para dar uma olhada em meus projetos e contribuir com sugestões, críticas construtivas e feedbacks. Acredito que a colaboração é a chave para o sucesso e estou sempre disposto a aprender com outras pessoas.</strong>
 </h4>
-<p>Se você gostaria de entrar em contato comigo, pode me enviar uma mensagem aqui no GitHub ou me encontrar no LinkedIn. Será um prazer conversar com você sobre tecnologia, programação ou qualquer outra coisa que você queira discutir.</p>
+<p>Se você gostaria de entrar em contato comigo, pode me enviar uma mensagem pelo meu LinkedIn ou me encontrar no Instagram. Será um prazer conversar com você sobre tecnologia, programação ou qualquer outra coisa que você queira discutir.</p>
 <div align="center">
     <a href="https://www.linkedin.com/in/arthur-teixeira-serafim-1b87b1254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
