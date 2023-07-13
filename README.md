@@ -1,4 +1,4 @@
-\<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="left">
     <a href="https://github.com/ArthurTeixeiraS"></a>
     <h2><strong>Olá! Seja bem-vindo ao meu perfil do GitHub!</strong>
