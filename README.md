@@ -25,11 +25,12 @@
     <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
    <h3>
     <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript/TypeScript</a> </br>
-   <a href="https://github.com/ArthurTeixeiraS/Analista-de-Numeros-JS" target="_blank">✅Analista de números</a> </br>
-    <a href="https://github.com/ArthurTeixeiraS/Contador-com-passos-em-JS" target="_blank">✅Contador com Passos</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/ProjetoAgenda" target="_blank">✅Agenda de Contatos</a> </br>
+   <a href="https://github.com/ArthurTeixeiraS/validaForm" target="_blank">✅Formulário com validações</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/GeradorCPF" target="_blank">✅Gerador de CPF</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2" target="_blank">✅To-Do List</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/ListaDeTarefas" target="_blank">✅Lista de Tarefas</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/Gerador-de-Senhas" target="_blank">✅Gerador de Senhas</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
