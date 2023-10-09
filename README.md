@@ -32,7 +32,7 @@
     <a href="https://github.com/ArthurTeixeiraS/ProjetoAgenda" target="_blank">✅Agenda de Contatos</a> </br>
    <a href="https://github.com/ArthurTeixeiraS/projetinhoFormularioFullStack" target="_blank">✅Formulário com validações e envio para DB</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/GeradorCPF" target="_blank">✅Gerador de CPF</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/Tui-doList1.2" target="_blank">✅To-Do List</a> </br>
+     <a href="https://github.com/ArthurTeixeiraS/ListaTarefasReact" target="_blank">✅To-Do List com React</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
      <a href="https://github.com/ArthurTeixeiraS/Gerador-de-Senhas" target="_blank">✅Gerador de Senhas</a> </br>
     </p>
