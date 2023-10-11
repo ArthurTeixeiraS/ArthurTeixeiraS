@@ -28,7 +28,7 @@
 </p>
     <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
    <h3>
-    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript/TypeScript</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/ProjetoAgenda" target="_blank">✅Agenda de Contatos</a> </br>
    <a href="https://github.com/ArthurTeixeiraS/projetinhoFormularioFullStack" target="_blank">✅Formulário com validações e envio para DB</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/GeradorCPF" target="_blank">✅Gerador de CPF</a> </br>
