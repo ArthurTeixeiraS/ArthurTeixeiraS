@@ -6,7 +6,7 @@
     </h2>
    
 <p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando o Ensino Médio Técnico em Informática e possuo conhecimentos básicos em Delphi 10, SQL, Tailwind, React e Java, e intermediário em JavaScript, NodeJS, HTML5 e CSS3.</br>
-<h3 align="center"><a align="center" href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a></h3></strong></p>
+</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -23,13 +23,14 @@
 </p>
     <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
    <h3>
-    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/ProjetoAgenda" target="_blank">✅Agenda de Contatos</a> </br>
-   <a href="https://github.com/ArthurTeixeiraS/projetinhoFormularioFullStack" target="_blank">✅Formulário com validações e envio para DB</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/projetinhoFormularioFullStack" target="_blank">✅Formulário com validações e envio para DB</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/GeradorCPF" target="_blank">✅Gerador de CPF</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/ListaTarefasReact" target="_blank">✅To-Do List com React</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
-     <a href="https://github.com/ArthurTeixeiraS/Gerador-de-Senhas" target="_blank">✅Gerador de Senhas</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript</a> </br>
+    <a href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a>
+    <a href="https://github.com/ArthurTeixeiraS/ListaTarefasReact" target="_blank">✅To-Do List com React</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
+    <a href="https://github.com/ArthurTeixeiraS/Gerador-de-Senhas" target="_blank">✅Gerador de Senhas</a> </br>
     </p>
 </p>
 <p><h1><strong>:fire: Meus Status :</strong></h1>
