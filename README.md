@@ -27,7 +27,7 @@
     <a href="https://github.com/ArthurTeixeiraS/projetinhoFormularioFullStack" target="_blank">✅Formulário com validações e envio para DB</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/GeradorCPF" target="_blank">✅Gerador de CPF</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/Udemy-JS" target="_blank">✅Repositório JavaScript</a> </br>
-    <a href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a>
+    <a href="https://portifolioarthurts.netlify.app/#home" target="_blank">✅Meu Portifólio</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/ListaTarefasReact" target="_blank">✅To-Do List com React</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/LandingPage" target="_blank">✅Landing Page</a> </br>
     <a href="https://github.com/ArthurTeixeiraS/Gerador-de-Senhas" target="_blank">✅Gerador de Senhas</a> </br>
