@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
    
-<p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando Graduação em Engenharia da Computação e sou formado como Técnico de Informática pelo CEDUP Abilio Paulo. Possuo conhecimentos avançados em Delphi 10 e SQL e intermediário em JavaScript, NodeJS, HTML5, CSS3, Tailwind, React, Vue e Java.</br>
+<p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando Graduação em Engenharia da Computação e sou formado como Técnico de Informática pelo CEDUP Abilio Paulo. Possuo conhecimentos avançados em Delphi 10 e intermediário em SQL, JavaScript, NodeJS, HTML5, CSS3, Tailwind, React, Vue e Java.</br>
 </p>
 <div align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="40" height="40" />
