@@ -7,18 +7,19 @@
    
 <p><strong> • Meu nome é Arthur Teixeira Serafim, e sou um programador entusiasta que adora desafios e está sempre em busca de aprendizado. Atualmente estou cursando Graduação em Engenharia da Computação e sou formado como Técnico de Informática pelo CEDUP Abilio Paulo. Possuo conhecimentos avançados em Delphi 10 e intermediário em SQL, JavaScript, NodeJS, HTML5, CSS3, Tailwind, React, Vue e Java.</br>
 </p>
-<p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/> 
-
-</p><br/>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40"/></td>
+  </tr>
+</table><br/>
 <p>Aqui no meu perfil você encontrará alguns dos meus projetos pessoais e experimentos com diferentes tecnologias. Acredito que a prática é a melhor maneira de aprender e evoluir como desenvolvedor, e é por isso que sempre tento dar vida à projetos diferentes para expandir meus conhecimentos.
 </p>
     <h3><strong>Alguns dos projetos que já trabalhei ou estou trabalhando atualmente são: </strong>
